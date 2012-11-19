@@ -1,4 +1,4 @@
-[http://yermocraft.com](yermocraft)
+[Yernocraft.com](http://yermocraft.com)
 ==========
 
-Minecraft server
+Servidor minecraft
